@@ -14,11 +14,11 @@
             <anio>1998</anio>
         </fecha>
     </hecho>
-    <hecho descripcion="Se funda Facebook.">
+    <hechos descripcion="Se funda Facebook.">
         <fecha>
             <dia>4</dia>
             <mes>2</mes>
             <anio>2004</anio>
         </fecha>
-    </hecho>
+    </hechos>
 </hechos_historicos>
