@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paises_europa>
+    <españa>
+        <capital>madrid</capital>
+        <poblacion>49 millones</poblacion>
+        <superficie>506_km²</superficie>
+    </españa>
+    <francia>
+        <capital>paris</capital>
+        <poblacion>65 millones</poblacion>
+        <superficie>644 km²</superficie>
+    </francia>
+    <alemania>
+        <capital>berlin</capital>
+        <poblacion>84 millones</poblacion>
+        <superficie>358 km²</superficie>
+    </alemania>
+    <portugal>
+        <capital>lisboa</capital>
+        <poblacion>11 millones</poblacion>
+        <superficie>92 km²</superficie>
+    </portugual>
+</paises_europa>
+

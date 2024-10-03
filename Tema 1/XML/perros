@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perro>
+    <raza>
+        <nombre>Perro de aguas español</nombre>
+        <abreviatura>PAE</abreviatura>
+        <origen>Andalucía</origen>
+        <tamanio>
+            <macho>44 a 50 cm</macho>
+            <hembra>40 a 46 cm</hembra>
+        </tamanio>
+        <peso>
+            <macho>19 a 22 kg</macho>
+            <hembra>14 a 19 kg</hembra>
+        </peso>
+        <pelaje>largo</pelaje>
+        <perro_peligroso>no</perro_peligroso>
+        <esperanza_vida>10 a 14 anios</esperanza_vida>
+    </raza>
+    <raza>
+        <nombre>Doberman</nombre>
+        <abreviatura>DN</abreviatura>
+        <origen>Alemania</origen>
+        <tamanio>
+            <macho>70 cm</macho>
+            <hembra>65 cm</hembra>
+        </tamanio>
+        <peso>
+            <macho>40 a 45 kg</macho>
+            <hembra>35 a 40 kg</hembra>
+        </peso>
+        <pelaje>corto</pelaje>
+        <perro_peligroso>si</perro_peligroso>
+        <esperanza_vida>10 a 12 anios</esperanza_vida>
+    </raza>
+    <raza>
+        <nombre>Chihuahua</nombre>
+        <abreviatura>CH</abreviatura>
+        <origen>Mexico</origen>
+        <tamanio>
+            <macho>15 a 20 cm</macho>
+            <hembra>10 a 15 cm</hembra>
+        </tamanio>
+        <peso>
+            <macho>1.5 a 3 kg</macho>
+            <hembra>1 a 2.5kg</hembra>
+        </peso>
+        <pelaje>corto</pelaje>
+        <perro_peligroso>no</perro_peligroso>
+        <esperanza_vida>13 años</esperanza_vida>
+    </raza>
+</perro>

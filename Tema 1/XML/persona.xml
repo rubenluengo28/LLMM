@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+    <nombre>Ruben</nombre>
+    <fecha_de_nacimiento>
+        <dia>28</dia>
+        <mes>04</mes>
+        <anio>2002</anio>
+    </fecha_de_nacimiento>
+    <nombre>Angel</nombre>
+    <fecha_de_nacimiento>
+        <dia>05</dia>
+        <mes>12</mes>
+        <anio>2001</anio>
+    </fecha_de_nacimiento>
+    <nombre>Zamira</nombre>
+    <fecha_de_nacimiento>
+        <dia>09</dia>
+        <mes>04</mes>
+        <anio>2003</anio>
+    </fecha_de_nacimiento>
+</persona>

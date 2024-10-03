@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro>
+        <titulo_del_libro>El principe de la niebla</titulo_del_libro>
+        <autor_del_libro>carlos ruiz zafon</autor_del_libro>
+        <anio_de_publicacion>1993</anio_de_publicacion>
+        <genero>
+            <ficcion>Si</ficcion>
+            <terror>No</terror>
+            <misterio>Si</misterio>
+            <romance>No</romance>
+        </genero>
+        <idioma>espaniol</idioma>
+        <sinopsis>El nuevo hogar de los Carver, que se han mudado a la costa huyendo de la ciudad y de la guerra, está rodeado de misterio. Todavía se respira el espíritu de Jacob, el hijo de los antiguos propietarios, que murió ahogado. Las extrañas circunstancias de esa muerte sólo se empiezan a aclarar con la aparición de un diabólico personaje: el Príncipe de la Niebla, capaz de conceder cualquier deseo a una persona; eso sí, a un alto precio.</sinopsis>
+        <comentarios>
+            <comentario1>esta novela reafirma la gran imaginación que posee este escritor. Esrecomendable para cualquier tipo de lector, además de atractiva y de no muy difícil lectura. El lector se siente identificado con los personajes y la historia.</comentario1>
+        </comentarios>
+    </libro>
+    <libro>
+        <titulo_del_libro>Antihéroes</titulo_del_libro>
+        <autor>
+            <autor_del_libro>Iria G Parente</autor_del_libro>
+            <autor_del_libro2>Selene M Pascual </autor_del_libro2>
+        </autor>
+        <anio_de_publicacion>2018</anio_de_publicacion>
+        <genero>
+            <ficcion>si</ficcion>
+            <terror>no</terror>
+            <misterio>si</misterio>
+            <romance>no</romance>
+        </genero>
+        <idioma>español</idioma>
+        <sinopsis>Me llamo Yeray Ayala y tengo un secreto. Este libro que tienes entre las manos contiene mi historia, la de otros inadaptados y la clave que nos une a todos: tenemos poderes. Sí, lo sé, vas a pensarte que esto es ficción.En cuanto descubrí que podía desaparecer y reaparecer donde quisiera, yo también me dije que era imposible. Eso hizo que me aprovechase, claro, y usase mi poder para cosas que no son muy legales... Pero no hablemos de eso. Lo importante es que, cuando una organización que se dedica a atrapar a la gente como yo me capturó, descubrí que estaba muy lejos de ser un caso aislado.CIRCE es esa organización. ¿Su objetivo? Reacondicionar a todos los que usamos nuestros poderes de mala manera. Convertirnos en héroes.Pero ¿quién quiere ser un héroe pudiendo ser un antihéroe?</sinopsis>
+        <comentarios>
+            <comentario1>Increíblemente increíble. Personajes únicos y entrañables, trama que te atrapa y no puedes dejar de leer. </comentario1>
+        </comentarios>
+    </libro>
+    <libro>
+        <titulo_del_libro>frankenstein</titulo_del_libro>
+        <autor_del_libro>mery shelly</autor_del_libro>
+        <anio_de_publicacion>1818</anio_de_publicacion>
+        <genero>
+            <ficcion>si</ficcion>
+            <terror>si</terror>
+            <misterio>si</misterio>
+            <romance>si</romance>
+        </genero>
+        <idioma>ingles</idioma>
+        <sinopsis>La novela narra la historia de Víctor Frankenstein, un joven suizo, estudiante de medicina en Ingolstadt, obsesionado por conocer "los secretos del cielo y la tierra". En su afán por desentrañar "la misteriosa alma del hombre", Víctor crea un cuerpo a partir de la unión de distintas partes de cadáveres diseccionados.</sinopsis>
+        <comentarios>
+            <comentario1>Frankenstein hace una profunda reflexión sobre la ética, la ciencia y la soledad del ser humano, una soledad forzada por el rechazo de la sociedad que deriva en locura y maldad.</comentario1>
+        </comentarios>
+    </libro>
+</biblioteca>
