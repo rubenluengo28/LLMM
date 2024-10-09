@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda xmlns:age="http://www.ejemplo.com/agenda" xmlns:ema="http://www.ejemplo.com/correo" >
+    <age:contacto>
+        <age:nombre>Juan Pérez</age:nombre>
+        <age:emails>
+            <age:email>juan.perez@example.com</age:email>
+        </age:emails>
+        <age:telefonos>
+            <age:telefono>+34 600 123 456</age:telefono>
+        </age:telefonos>
+    </age:contacto>
+
+    <age:contacto>
+        <nombre>María López</nombre>
+        <age:emails>
+            <age:email>maria.lopez@example.com</age:email>
+        </age:emails>
+        <age:telefonos>
+            <age:telefono>+34 600 654 321</age:telefono>
+        </age:telefonos>
+    </age:contacto>
+
+    <ema:bandeja >
+        <ema:correo>
+            <ema:remitente>juan.perez@example.com</ema:remitente>
+            <ema:destinatario>maria.lopez@example.com</ema:destinatario>
+            <ema:asunto>Reunión</ema:asunto>
+            <ema:cuerpo>hola</ema:cuerpo>
+        </ema:correo>
+    </ema:bandeja>
+    <ema:bandeja >
+        <ema:correo>
+            <ema:remitente>maria.lopez@example.com</ema:remitente>
+            <ema:destinatario>juan.perez@example.com</ema:destinatario>
+            <ema:asunto>Re: Reunión</ema:asunto>
+            <ema:cuerpo>Adiós</ema:cuerpo>
+        </ema:correo>
+    </ema:bandeja>
+</agenda>
